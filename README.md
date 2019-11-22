@@ -1,6 +1,6 @@
 # Space Invaders - JavaScript and DOM Manipulation
 
-![space invaders(static/images/space-invaders.jpg)
+![space-invaders.jpg](static/images/space-invaders.jpg)
 
 ## Background
 
