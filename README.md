@@ -27,7 +27,7 @@ The project uses JavaScript, HTML, CSS, and D3.js to accumulate, and render the 
 - - -
 
 ### Code Execution Instructions
-Lorem Ipsum
+Open the index.html file in Chrome or Firefox. Hit Ctrl-Fn-F5 to clear the browser cache if needed.
 
 ### Copyright
 
